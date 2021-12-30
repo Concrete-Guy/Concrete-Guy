@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Concrete-Guy
+- 👋 Hi, 
 - 👀 Into blockchain smart contracts devlopments and utility dapps
 - 🌱 I’m currently learning and building
 - 💞️ I’m looking to collaborate on developing blockchain projects and provide audit services
